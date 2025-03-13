@@ -4,11 +4,19 @@
 <hr>
 <h3 align="center">
 Citation
-</h3> 
+</h3>
 <hr>
 
 ```
-TBU
+@misc{de2025unmaskitaigeneratedproduct,
+      title={Unmask It! AI-Generated Product Review Detection in Dravidian Languages}, 
+      author={Somsubhra De and Advait Vats},
+      year={2025},
+      eprint={2503.09289},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.09289}, 
+}
 ```
 
 <hr>
@@ -16,7 +24,7 @@ TBU
 Pre-print
 </h3> 
 <hr>
-[arXiv]()
+View at [arXiv](https://arxiv.org/abs/2503.09289v1)
 
 ## Contact Us
 
