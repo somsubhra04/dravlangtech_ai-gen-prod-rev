@@ -24,7 +24,7 @@ Citation
 Pre-print
 </h3> 
 <hr>
-View at (https://arxiv.org/abs/2503.09289v1)[arXiv]
+View at [arXiv](https://arxiv.org/abs/2503.09289v1)
 
 ## Contact Us
 
